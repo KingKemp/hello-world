@@ -1,2 +1,5 @@
 # hello-world
-traditional first project in computers.
+
+I'm just another one.
+No, I'm Another One.
+The ONLY one.
